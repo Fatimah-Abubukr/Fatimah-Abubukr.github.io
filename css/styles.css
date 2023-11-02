@@ -1,0 +1,84 @@
+font-family: Arial, sans-serif
+{
+    margin: 0;
+    padding: 20;
+}
+
+header, nav, section, footer
+{
+    padding: 5px;
+}
+
+header
+{
+    text-align: center;
+    background-color: #BA55D3;
+    color: #fff;
+}
+
+body
+{
+    margin: 0;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+    border: 10px;
+}
+
+.side-panel
+{
+     width: 175px;
+     height: 101vh;
+     background-color: #87CEFA;
+     float: left;
+
+     border: 0px solid black;
+}
+
+.content
+{
+     width: 1150px;
+     height: 100vh;
+    margin-left: 175px;
+    margin-top: -18px;
+    /*padding: 100px;*/
+    background-color:#DB7093;
+    color: #fff;
+    font-family: "Times New Roman", Times, serif;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.separator-size
+{
+    width: 125px;
+    height: 50px;
+}
+.header-image
+{
+position: absolute;
+    top: 0;
+    right: 0;
+}
+.navbar a:hover
+{
+    background-color: #6495ED;
+}
+.head-image
+{
+position: absolute;
+          top:0;
+          left: 0;
+}
+.navbar a
+{
+    text-decoration: none;
+}
+.contacts
+{
+    text-align: center;
+}
+.reviews
+{
+    text-align: center;
+}
+
